@@ -1,4 +1,4 @@
-# TodoApp
-Patika.dev React Native eğitiminin TodoApp Ödevi
+# TarifkaApp
+Patika.dev React Native eğitiminin TarifkaApp Ödevi
 
-<img src="https://user-images.githubusercontent.com/67802869/190926003-740d17fa-b937-45b2-a1ef-2accb88f4c8b.png" width=200px height=400px />  <img src="https://user-images.githubusercontent.com/67802869/190927384-91435f19-ee95-4be8-8824-fcf84e5fabcd.png" width=200px height=400px />  <img src="https://user-images.githubusercontent.com/67802869/190927426-8b80c720-37c5-4ead-b042-a690f1db2a2a.png" width=200px height=400px /> 
+<img src="https://user-images.githubusercontent.com/67802869/192072132-bb9b4a29-61cf-45ca-b161-9a7be6d0b686.png" width=200px height=400px />  <img src="https://user-images.githubusercontent.com/67802869/192072153-1f8554ce-f328-45d4-b1a0-689207e09610.png" width=200px height=400px />  <img src="https://user-images.githubusercontent.com/67802869/192072218-6c8021c0-957b-44af-9a3e-5509a7340fa2.png" width=200px height=400px /> 
