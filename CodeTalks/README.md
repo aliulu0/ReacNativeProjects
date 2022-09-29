@@ -1,4 +1,4 @@
-# TarifkaApp
-Patika.dev React Native eğitiminin TarifkaApp Ödevi
+# CodeTalks
+Patika.dev React Native eğitiminin CodeTalks Ödevi
 
-<img src="https://user-images.githubusercontent.com/67802869/192072132-bb9b4a29-61cf-45ca-b161-9a7be6d0b686.png" width=200px height=400px />  <img src="https://user-images.githubusercontent.com/67802869/192072153-1f8554ce-f328-45d4-b1a0-689207e09610.png" width=200px height=400px />  <img src="https://user-images.githubusercontent.com/67802869/192072218-6c8021c0-957b-44af-9a3e-5509a7340fa2.png" width=200px height=400px /> 
+<img src="https://user-images.githubusercontent.com/67802869/193111016-9229a447-efd0-4937-81c4-807ba0dcfc54.png" width=200px height=400px />    <img src="https://user-images.githubusercontent.com/67802869/193111149-80f3a83a-339e-4d21-bfa6-ae76fd394ed1.png" width=200px height=400px />    <img src="https://user-images.githubusercontent.com/67802869/193111213-30850fa6-8e1e-4bdd-ae7c-8b57d00e9095.png" width=200px height=400px />    <img src="https://user-images.githubusercontent.com/67802869/193111276-1833b798-6179-4e9a-9080-2e6be4a7b6fd.png" width=200px height=400px /> 
